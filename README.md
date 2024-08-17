@@ -49,29 +49,6 @@ This design enables:
 - **Resilience** with message persistence
 - **Real-time analytics** with minimal latency
 
-## 🚀 Development Journey
-
-This project represents a rapid learning and implementation process, completed in just 48 hours thanks to:
-
-### 💡 Leveraging Previous Knowledge
-
-- **SQL & Data Management**: Database design and query optimization
-- **Web Development**: API design and frontend integration
-- **Cyber Physical Systems**: Docker containerization and system architecture
-
-### 🔍 Breadth-First-Search Learning Method
-
-I adapted a "Breadth-First-Search" approach to research, quickly exploring multiple solutions before diving deep:
-
-1. **Broad exploration** of potential technologies
-2. **Quick assessment** of implementation challenges
-3. **Focused learning** on chosen solution path
-4. **Rapid prototyping** to validate concepts
-
-This approach has proven effective across multiple projects, including:
-- [Product Demand Prediction](https://github.com/mrjex/Product-Demand-Prediction)
-- [Global City Streaming](https://github.com/mrjex/Global-City-Streaming)
-
 
 ## 🚀 Getting Started
 
@@ -163,8 +140,3 @@ The system includes several advanced capabilities:
 - **Exactly-Once Semantics**: Ensures data integrity during processing
 - **Fault Tolerance**: Continues operation even if components fail
 - **Scalable Processing**: Handles increased data volumes through horizontal scaling
-
-
----
-
-*Developed by Joel Mattsson in a 48-hour coding sprint*
